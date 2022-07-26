@@ -1,0 +1,22 @@
+current directory: C:/Users/eekfy/reshipigram/vendor/bundle/ruby/3.0.0/gems/io-console-0.5.11/ext/io/console
+C:/Ruby30-x64/bin/ruby.exe -I C:/Ruby30-x64/lib/ruby/3.0.0 -r ./siteconf20220716-708-vkld1m.rb extconf.rb
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... no
+checking for rb_scheduler_timeout()... yes
+checking for rb_io_wait()... yes
+creating Makefile
+
+current directory: C:/Users/eekfy/reshipigram/vendor/bundle/ruby/3.0.0/gems/io-console-0.5.11/ext/io/console
+make DESTDIR\= clean
+bash.exe: warning: could not find /tmp, please create!
+
+current directory: C:/Users/eekfy/reshipigram/vendor/bundle/ruby/3.0.0/gems/io-console-0.5.11/ext/io/console
+make DESTDIR\=
+generating console-x64-mingw32.def
+bash.exe: warning: could not find /tmp, please create!
+compiling console.c
+linking shared-object io/console.so
+
+current directory: C:/Users/eekfy/reshipigram/vendor/bundle/ruby/3.0.0/gems/io-console-0.5.11/ext/io/console
+make DESTDIR\= install
+bash.exe: warning: could not find /tmp, please create!
+/usr/bin/install -c -m 0755 console.so ./.gem.20220716-708-6a7izg/io
